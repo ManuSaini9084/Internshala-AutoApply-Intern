@@ -1,6 +1,5 @@
 # [Internshala Bot](https://pypi.org/project/internshala-bot/)
 
-### Full Video Tutorial on [Youtube](https://youtu.be/l0Pgz9-QB_E) - <https://youtu.be/l0Pgz9-QB_E>
 
 ## Background
 

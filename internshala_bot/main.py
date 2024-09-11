@@ -1,7 +1,7 @@
 """
 This file is a part of Internshala-bot Package. 
-Github - https://github.com/Eviltr0N/internshala-bot
-Written by - Mayank Lodhi
+Github - https://github.com/ManuSaini9084/Internshala-AutoApply-Intern
+Written by - Manu Saini
 """
 
 from undetected_playwright.sync_api import sync_playwright, TimeoutError
